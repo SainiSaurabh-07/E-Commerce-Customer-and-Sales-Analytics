@@ -1,4 +1,4 @@
-# 🛒 E-COM Dashboard: E-Commerce Analytics & Insights
+# 🛒 E-COM Dashboard: E-Commerce Customer And Sales Analytics & Insights
 
 A dynamic, multi-page Power BI report built to explore e-commerce performance — covering customer behavior, sales trends, product analytics, delivery efficiency, and advanced market basket analysis.
 
@@ -168,4 +168,6 @@ To deliver a multi-page interactive analytics tool that:
 ## 9.Screenshots
 
 **Page 1 — Overview & Customer Analytics**
-!(https://github.com/SainiSaurabh-07/E-Commerce-Customer-and-Sales-Analytics/blob/main/E-Commerce%20Customer%20and%20Sales%20Analysis.png)
+
+![E-Com Dashboard](https://github.com/SainiSaurabh-07/E-Commerce-Customer-and-Sales-Analytics/blob/main/E-Commerce%20Customer%20and%20Sales%20Analysis.png)
+
