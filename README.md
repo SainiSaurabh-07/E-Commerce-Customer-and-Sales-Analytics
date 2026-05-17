@@ -168,4 +168,4 @@ To deliver a multi-page interactive analytics tool that:
 ## 9.Screenshots
 
 **Page 1 — Overview & Customer Analytics**
-([Screenshot_2026-05-05_111129.png](https://github.com/SainiSaurabh-07/E-Commerce-Customer-and-Sales-Analytics/blob/main/E-Commerce%20Customer%20and%20Sales%20Analysis.png))
+!(https://github.com/SainiSaurabh-07/E-Commerce-Customer-and-Sales-Analytics/blob/main/E-Commerce%20Customer%20and%20Sales%20Analysis.png)
