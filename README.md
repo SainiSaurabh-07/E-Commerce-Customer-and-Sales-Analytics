@@ -167,8 +167,8 @@ To deliver a multi-page interactive analytics tool that:
 ## 10.Acknowledgment
 --
  **🙋‍♂️Saurabh Saini**
- . **Email:saurabhsaini1974@gmail.com**
- . **Linkdin:https://www.linkedin.com/in/saurabh-saini-55b61b383/**
+- **Email:saurabhsaini1974@gmail.com**
+- **Linkdin:https://www.linkedin.com/in/saurabh-saini-55b61b383/**
 
  ---
 ## 9.Screenshots
