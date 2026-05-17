@@ -169,7 +169,7 @@ To deliver a multi-page interactive analytics tool that:
 
 **Page 1 — Overview & Customer Analytics**
 
-![E-COM Dashboard Page 1](Screenshot_2026-05-05_111129.png)
+![E-COM Dashboard Page 1]([Screenshot_2026-05-05_111129.png](https://github.com/SainiSaurabh-07/E-Commerce-Customer-and-Sales-Analytics/blob/main/E-Commerce%20Customer%20and%20Sales%20Analysis.png))
 
 **Page 2 — Product Performance & Logistics**
 
