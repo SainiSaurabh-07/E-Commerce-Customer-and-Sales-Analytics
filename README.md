@@ -168,13 +168,4 @@ To deliver a multi-page interactive analytics tool that:
 ## 9.Screenshots
 
 **Page 1 — Overview & Customer Analytics**
-
-![E-COM Dashboard Page 1]([Screenshot_2026-05-05_111129.png](https://github.com/SainiSaurabh-07/E-Commerce-Customer-and-Sales-Analytics/blob/main/E-Commerce%20Customer%20and%20Sales%20Analysis.png))
-
-**Page 2 — Product Performance & Logistics**
-
-![E-COM Dashboard Page 2](Screenshot_2026-05-05_111316.png)
-
-**Page 3 — Advanced Analytics**
-
-![E-COM Dashboard Page 3](Screenshot_2026-05-05_111449.png)
+([Screenshot_2026-05-05_111129.png](https://github.com/SainiSaurabh-07/E-Commerce-Customer-and-Sales-Analytics/blob/main/E-Commerce%20Customer%20and%20Sales%20Analysis.png))
